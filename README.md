@@ -42,4 +42,4 @@ DAX – Calculated measures and KPIs.
 Excel – Source data format.
 
 #8. Screenshots / Demos:-
-Show what the dashboard lool like. - ![Alt text](https://github.com/bhaveshksh/End-End-Power-BI-Dashboard/blob/main/Project%20Screenshot.png)
+Dashboard look like. - ![Alt text](https://github.com/bhaveshksh/End-End-Power-BI-Dashboard/blob/main/Project%20Screenshot.png)
