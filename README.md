@@ -1,4 +1,3 @@
-##Project Title
 ## Power BI End-to-End Dashboard Development (Healthcare Waiting List Analysis)
 
 #Description
