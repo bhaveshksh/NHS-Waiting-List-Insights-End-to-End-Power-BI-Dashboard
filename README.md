@@ -1,45 +1,88 @@
-#Project: NHS Waiting List Insights – End-to-End Power BI Dashboard
+## NHS Waiting List Insights – End-to-End Power BI Dashboard
 
-#1. Business Problem:-
-The NHS has been experiencing increasing patient backlogs in both inpatient and outpatient services. Without a consolidated view of the data, it’s challenging for management to monitor trends, identify bottlenecks, and make timely resource allocation decisions.
+This dashboard provides interactive insights into NHS inpatient and outpatient waiting lists from 2018 to 2021, helping healthcare planners identify bottlenecks, compare service lines, and allocate resources effectively.
 
-#2. Goal of the Dashboard:-
-To develop a fully interactive Power BI dashboard that enables:
-Monitoring of waiting list trends from 2018–2021.
-Comparison between inpatient and outpatient waiting times.
-Identification of service areas under pressure.
-Data-driven decision-making for resource planning.
+#🔍 1. Business Problem
 
-#3. Data Sources:-
-NHS Public Waiting List Data (Excel format).
-Inpatient and outpatient datasets covering monthly trends.
-Geographic data for regional analysis.
+  * The NHS faces growing backlogs in both inpatient and outpatient care. Without a unified dashboard:
+  * It’s hard to spot trends over time
+  * Comparing wait times across services is difficult
+  * Identifying which regions or services are under strain is manual and slow
+  * Resource planning is reactive rather than proactive
 
-#4. Process & Methodology:-
-Data Collection: Imported multiple Excel files (inpatient & outpatient) via Power BI’s folder connector.
-Data Transformation: Used Power Query for cleaning, merging, and shaping the datasets.
-Data Modeling: Created relationships between fact tables (inpatient, outpatient) and dimension tables (date, region).
-Measures & Calculations: Wrote DAX formulas for KPIs such as Total Patients Waiting, Average Waiting Time, and % Change vs Previous Year.
-Visualization: Designed an intuitive, interactive report with slicers, drill-throughs, and KPI cards.
+📊# 2. Dashboard Goal
 
-#5. Key Features of the Dashboard:- 
-KPI Cards: Display total patients waiting, average waiting times, and year-on-year changes.
-Trend Analysis: Line chart tracking monthly backlog trends.
-Service Comparison: Stacked bar charts for inpatient vs outpatient counts.
-Regional View: Map visualization showing backlog severity by location.
-Interactive Filters: Year, month, and service type slicers for targeted analysis.
+  * To build a fully interactive Power BI dashboard that helps users:
+  * Monitor waiting list trends (2018–2021)
+  * Compare inpatient vs outpatient waiting performance
+  * Identify which service areas or regions are under pressure
+  * Support data-driven decisions on capacity, staffing, and resource distribution
 
-#6. Business Impact & Insights:-
-Capacity Planning: Forecasts demand surges for hospitals.
-Performance Tracking: Monitors effectiveness of intervention strategies.
-Strategic Decision-Making: Helps identify underperforming regions and prioritize improvements.
-Transparency: Enables clear communication of healthcare performance to stakeholders.
+# 📂3. Data Sources
 
-#7. Tech Stack:- 
-Power BI Desktop – Dashboard creation.
-Power Query – Data preparation and transformation.
-DAX – Calculated measures and KPIs.
-Excel – Source data format.
+  * NHS public waiting list data in Excel format
+  * Inpatient and outpatient datasets with monthly records
+  * Geographic / regional data for mapping and comparison
 
-#8. Screenshots / Demos:-
-Dashboard look like. - ![Alt text](https://github.com/bhaveshksh/End-End-Power-BI-Dashboard/blob/main/Project%20Screenshot.png)
+# 🔍4. Process & Methodology
+
+  * Phase	Description
+  * Data Collection	Imported multiple Excel files (inpatient & outpatient) via Power BI’s Folder Connector
+  * Data Transformation	Used Power Query: cleaning, merging, shaping, handling missing values
+  * Data Modeling	Built relationships between fact tables (inpatient & outpatient) and dimension tables (date, region)
+  * Measures & Calculations (DAX)	Created KPIs: Total Patients Waiting, Average Waiting Time, % Change YoY
+  * Visualization	Designed dashboard with slicers, drill-throughs, KPI cards, maps, comparison charts
+    
+# 🔑5. Key Features
+
+  * KPI Cards: Show totals for patients waiting, average wait time, and percent change
+  * Trend Analysis: Line charts to display backlog evolution over months
+  * Service Comparison: Stacked bar or clustered charts comparing inpatient vs outpatient counts
+  * Regional View: Map visual showing severity by region
+  * Interactive Filters: Slicers for year, month, service type; drill-through for deeper detail
+    
+# 🖼️ 6. Business Impact & Insights
+
+  * Helps forecast demand surges in certain regions or services
+  * Enables performance monitoring of interventions over time
+  * Helps prioritize underperforming regions and service lines
+  * Improves transparency in reporting to stakeholders
+
+# 7. Tech Stack
+
+  * Power BI Desktop — dashboard creation
+  * Power Query — ETL / data prep
+  * DAX — calculation of measures and KPIs
+  * Excel — raw data source
+
+8. Screenshots / Dashboard Preview
+
+Here’s a preview of the dashboard layout:
+
+(Make sure this image file is present in your repo under that path for it to show correctly.)
+
+9. How to Use / Run
+
+Clone the repository:
+
+git clone [https://github.com/bhaveshksh/End-End-Power-BI-Dashboard.git]
+
+Open the .pbix file in Power BI Desktop
+
+Ensure source data files are available or fix data source paths
+
+Click Refresh to load data
+
+Use slicers, drill-downs, and filters to explore the dashboard
+
+(Optional) Publish to Power BI Service if you have licensing
+
+10. Connect with Me
+
+For questions, feedback, or collaborations:
+
+LinkedIn: alkeshlajurkar
+
+Email: alkeshlajurkar@gmail.com
+
+GitHub Repo: End-End-Power-BI-Dashboard
