@@ -78,5 +78,7 @@ Use slicers, drill-downs, and filters to explore the dashboard
 For questions, feedback, or collaborations:
 
 LinkedIn: [Linkedin.com/in/bhaveshkshirsagar/]
+
 Email: bhaveshkshirsagar50@gmail.com
+
 GitHub Repo: [https://github.com/bhaveshksh/NHS-Waiting-List-Insights-End-to-End-Power-BI-Dashboard]
