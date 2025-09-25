@@ -72,7 +72,6 @@ Ensure source data files are available or fix data source paths
 Click Refresh to load data
 Use slicers, drill-downs, and filters to explore the dashboard
 
-
 # 10. Connect with Me
 
 For questions, feedback, or collaborations:
