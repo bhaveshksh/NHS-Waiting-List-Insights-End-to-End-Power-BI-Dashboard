@@ -76,7 +76,7 @@ Use slicers, drill-downs, and filters to explore the dashboard
 
 For questions, feedback, or collaborations:
 
-[LinkedIn] : [Linkedin.com/in/bhaveshkshirsagar/]
+[LinkedIn] : [https://www.linkedin.com/in/bhaveshkshirsagar/]
 
 [Email] : bhaveshkshirsagar50@gmail.com
 
