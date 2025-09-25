@@ -2,7 +2,7 @@
 
 This dashboard provides interactive insights into NHS inpatient and outpatient waiting lists from 2018 to 2021, helping healthcare planners identify bottlenecks, compare service lines, and allocate resources effectively.
 
-#🔍 1. Business Problem
+# 🔍 1. Business Problem
 
   * The NHS faces growing backlogs in both inpatient and outpatient care. Without a unified dashboard:
   * It’s hard to spot trends over time
@@ -10,7 +10,7 @@ This dashboard provides interactive insights into NHS inpatient and outpatient w
   * Identifying which regions or services are under strain is manual and slow
   * Resource planning is reactive rather than proactive
 
-#📊 2. Dashboard Goal
+# 📊 2. Dashboard Goal
 
   * To build a fully interactive Power BI dashboard that helps users:
   * Monitor waiting list trends (2018–2021)
@@ -55,12 +55,13 @@ This dashboard provides interactive insights into NHS inpatient and outpatient w
   * DAX — calculation of measures and KPIs
   * Excel — raw data source
 
-#8. Screenshots / Dashboard Preview
+# 8. Screenshots / Dashboard Preview
 
 Here’s a preview of the dashboard layout:
+
 [Screen shoot] : [https://github.com/bhaveshksh/End-End-Power-BI-Dashboard/blob/main/Project%20Screenshot.png]
 
-#9. How to Use / Run
+# 9. How to Use / Run
 
 Clone the repository:
 
@@ -72,9 +73,10 @@ Click Refresh to load data
 Use slicers, drill-downs, and filters to explore the dashboard
 
 
-#10. Connect with Me
+# 10. Connect with Me
 
 For questions, feedback, or collaborations:
+
 LinkedIn: [Linkedin.com/in/bhaveshkshirsagar/]
 Email: bhaveshkshirsagar50@gmail.com
-GitHub Repo: 
+GitHub Repo: [https://github.com/bhaveshksh/NHS-Waiting-List-Insights-End-to-End-Power-BI-Dashboard]
