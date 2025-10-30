@@ -75,7 +75,7 @@ Use slicers, drill-downs, and filters to explore the dashboard
 # 10. Connect with Me
 
 For questions, feedback, or collaborations:
-[Resume] : [https://drive.google.com/file/d/1iIiPI8smjY6jgtrPm1tZG9V1jtU5LC7w/view?usp=sharing]
+[Resume] : [https://drive.google.com/file/d/1GArxX81BBT8tPktrdje-KhmiRI9KczTB/view?usp=sharing]
 
 [LinkedIn] : [https://www.linkedin.com/in/bhaveshkshirsagar/]
 
